@@ -1,4 +1,3 @@
-layout_spectrum: 0.5565647969488055
 typography_spectrum: 0.9236164591275156
 color:
   brandStrength: 0.9225900282617658
@@ -11,4 +10,6 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.5565647969488055
 name: This is Nick
+title: welcome to me
